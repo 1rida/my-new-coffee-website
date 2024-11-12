@@ -18,11 +18,11 @@ export default function Manu() {
       <section className="h-auto sm:h-screen">
         <div className="flex flex-col sm:flex-row items-center justify-center mt-5 text-white text-center sm:text-left p-4">
           {/* GIF */}
-          <img
+          {/* <img
             src="https://i.makeagif.com/media/1-22-2017/eQ9zo4.gif"
             alt="gif"
             className="max-w-full sm:w-1/3 md:w-1/4 lg:w-1/5 mb-4 sm:mb-0"
-          />
+          /> */}
 
           {/* Paragraph */}
           <p className="font-serif text-sm sm:text-lg md:text-xl sm:ml-6 p-4 sm:max-w-lg">
