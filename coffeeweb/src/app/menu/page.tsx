@@ -34,7 +34,7 @@ export default function Manu() {
               There is never a wrong time to have a coffee: A quote that suggests that there is no wrong time to enjoy coffee. <br />
               Coffee is more than just a drink, It is an experience: A quote that suggests that coffee is more than just a beverage, but rather an experience. <br />
               Coffee is a beautiful, complex beverage that has everything to do with the people you share it with: A quote that suggests that coffee is a complex beverage that is connected to the people you share it with. <br />
-              Never trust anyone who doesn't drink coffee: A quote that suggests that people who do not drink coffee are untrustworthy. <br />
+              Never trust anyone who doesnt drink coffee: A quote that suggests that people who do not drink coffee are untrustworthy. <br />
               The smell of fresh-made coffee is one of the world’s greatest inventions: Coffee is the ultimate stress reliever. <br />
               Life is too short for bad coffee. Good friends and great coffee make the perfect blend.
             </i>

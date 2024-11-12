@@ -17,7 +17,7 @@ export default function About() {
           <p className="text-lg text-black font-bold mt-4 px-6">
             <i>
               Welcome to our coffee corner, where our love for coffee runs deep! 
-              Our journey began in 1942 and we're here to give you the best service...
+              Our journey began in 1942 and we are here to give you the best service...
             </i>    
           </p>
         </div>
@@ -131,7 +131,7 @@ export default function About() {
           <div className="mt-6 md:mt-0 md:ml-8 text-center md:text-left">
             <p className="text-amber-500 text-4xl font-serif"><i>Affogato</i></p>
             <p className="text-lg mt-4 max-w-xl mx-auto">
-              Affogato is a coffee-based dessert made by pouring hot espresso over vanilla ice cream. It's a perfect blend of hot and cold!
+              Affogato is a coffee-based dessert made by pouring hot espresso over vanilla ice cream. It s a perfect blend of hot and cold!
             </p>
           </div>
         </div>
