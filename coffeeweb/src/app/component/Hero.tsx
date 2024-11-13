@@ -25,7 +25,7 @@ const Hero = () => {
 
         {/* Description */}
         <p className='mt-6 text-base sm:text-lg md:text-xl font-bold text-center md:text-left'>
-          Welcome to our coffee shop, where every cup tells a story. We source the finest beans from sustainable farms around the world, ensuring each sip is rich in flavor and aroma. Whether you're a casual drinker or a coffee connoisseur, our carefully curated selection promises to elevate your coffee experience. Join us on a journey of taste and discovery—explore our blends, learn about our origins, and brew your perfect cup today!
+          Welcome to our coffee shop, where every cup tells a story. We source the finest beans from sustainable farms around the world, ensuring each sip is rich in flavor and aroma. Whether you are a casual drinker or a coffee connoisseur, our carefully curated selection promises to elevate your coffee experience. Join us on a journey of taste and discovery—explore our blends, learn about our origins, and brew your perfect cup today!
         </p>
 
         {/* Button */}
