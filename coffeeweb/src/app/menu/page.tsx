@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from "react";
-
+import Image from "next/image";
 
 export default function Manu() {
   return (
@@ -23,6 +23,11 @@ export default function Manu() {
             alt="gif"
             className="max-w-full sm:w-1/3 md:w-1/4 lg:w-1/5 mb-4 sm:mb-0"
           /> */}
+
+<Image src={"/images/coffeelogo.jpg"} alt="img5" width={500} height={500}></Image>
+
+
+
 
           {/* Paragraph */}
           <p className="font-serif text-sm sm:text-lg md:text-xl sm:ml-6 p-4 sm:max-w-lg">

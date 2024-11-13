@@ -2,9 +2,9 @@ import Image from "next/image";
 
 export default function About() {
   return (
-    <div className="bg-black text-white ">
+    <div className=" text-white ">
 
-      <div className="relative  pt-20"> {/* pt-20 adds padding to offset the fixed header */}
+      <div className="relative  "> {/* pt-20 adds padding to offset the fixed header */}
         <Image
           className="h-[40rem] w-full object-cover"
           src="/images/c2.jpg"

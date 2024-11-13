@@ -33,19 +33,19 @@ const Header = () => {
           } flex-col lg:flex-row lg:flex gap-2 cursor-pointer justify-between items-center text-white text-[12px]  lg:ml-[65vh]`}
         >
           
-          <li className="m-6 ">
+          <li className="m-6 mt-0">
             <Link href="/">Home</Link>
           </li>
-          <li className="m-6">
+          <li className="m-6  mt-0">
             <Link href="/about">About</Link>
           </li>
-          <li className="m-6">
+          <li className="m-6  mt-0">
             <Link href="/contact">Contact</Link>
           </li>
-          <li className="m-6">
+          <li className="m-6  mt-0">
             <Link href="/menu">Menu</Link>
           </li>
-          <li className="m-6">
+          <li className="m-6  mt-0">
             <Link href="/price">Price</Link>
           </li>
         </ul>
